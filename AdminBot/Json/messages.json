@@ -215,8 +215,8 @@
     "SUCCESS_UNBAN_USER": "✅User unbanned"
   },
   "FA": {
-    "WELCOME": "به ربات مدیریت هیدی بات خوش آمدید.",
-    "ERROR_INVALID_NUMBER": "❌تنها اعداد مجاز هستند!",
+    "WELCOME": "سلام.",
+    "ERROR_INVALID_NUMBER": "❌فقط عدد مجازه!",
     "ERROR_USER_NOT_FOUND": "❌کاربر یافت نشد",
     "ERROR_INVALID_COMMAND": "❌فرمان نامعتبر",
     "ERROR_UNKNOWN": "❌خطای ناشناخته",
