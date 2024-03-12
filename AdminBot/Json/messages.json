@@ -366,7 +366,7 @@
     "INFO_PLAN_USAGE": "محدودیت مصرف(GB):",
     "INFO_PLAN_DAYS": "محدودیت زمان(روز):",
     "INFO_PLAN_PRICE": "قیمت:",
-    "INFO_PLAN_DESC": "توضیحات:",
+    "INFO_PLAN_DESC": "تعداد کاربر مجاز:",
     "INFO_PLAN_NUM_ORDER": "تعداد سفارش:",
     "INFO_PLAN_TOTAL_SALE": "مجموع فروش:",
     "SUCCESS_SERVER_TITLE_EDITED":"✅عنوان سرور ویرایش شد به:",
